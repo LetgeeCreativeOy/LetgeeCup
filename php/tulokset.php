@@ -12,15 +12,22 @@
 	if ( $rows != 0 )
 	{
 		echo "<table>";
-		while ( ($row = mysql_fetch_array($result)) )
+		$i = 0;
+		while(($row = mysql_fetch_array($result)))
 		{
+			
+			if($i == 0)
+			{
+				echo "<tr>";
+			}
+
 			$user1 = mysql_query ("SELECT `username` FROM `users` WHERE `id` = '$row[user_1_id]'") or die (mysql_error());
 			$user2 = mysql_query ("SELECT `username` FROM `users` WHERE `id` = '$row[user_2_id]'") or die (mysql_error());
 
 			$user1 = mysql_fetch_assoc($user1);
 			$user2 = mysql_fetch_assoc($user2);
 
-			echo "<tr><td><div class='title inline'>";
+			echo "<td><div class='title inline'>";
 					echo $user1['username'];
 			echo "</div></td>";
 			
@@ -31,16 +38,21 @@
 			echo "<td><div class='title inline'>";
 				echo "-";
 			echo "</div></td>";
-			
+
 			echo "<td><div class='title inline'>";
 				echo $row['user_2_goals'];
 			echo "</div></td>";
 
 			echo "<td><div class='title inline'>";
 				echo $user2['username'];
-			echo "</div><br/></td></tr>";
-			
-					
+			echo "</div><br/></td>";
+
+			if ($i == 1) 
+			{
+				echo "</tr>";
+				$i = 0;
+			}
+			$i++;
 		}
 		echo "</table>";
 	}

@@ -17,3 +17,329 @@
 [24-Feb-2015 15:39:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$row2' (T_VARIABLE), expecting ',' or ';' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 73
 [24-Feb-2015 15:40:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 79
 [24-Feb-2015 15:41:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 82
+[02-Mar-2015 12:59:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$user1' (T_VARIABLE) in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 107
+[02-Mar-2015 13:00:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$username1' (T_VARIABLE) in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 107
+[02-Mar-2015 13:42:36 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 118
+[02-Mar-2015 13:42:44 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 118
+[02-Mar-2015 14:43:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '.' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 13
+[02-Mar-2015 14:47:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '.' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 13
+[02-Mar-2015 14:47:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '.' in /home/letgeewa/public_html/letgeecup.fi/php/resultsadmin.php on line 13
+[04-Mar-2015 13:16:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:55 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:16:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:17:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:18:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:19:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 48
+[04-Mar-2015 13:38:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:38:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 22
+[04-Mar-2015 13:59:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:25 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:55 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 13:59:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 14:00:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 14:00:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 14:00:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 17
+[04-Mar-2015 14:00:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:00:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:01:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16
+[04-Mar-2015 14:02:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /home/letgeewa/public_html/letgeecup.fi/php/tulokset.php on line 16

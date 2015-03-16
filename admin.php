@@ -7,6 +7,11 @@
 		include ('php/login.php');
 	}
 
+	if (isset($_POST['update']) || isset($_POST['create']) ) 
+	{
+		include('php/updateadmin.php');
+	}
+
 ?>
 
 

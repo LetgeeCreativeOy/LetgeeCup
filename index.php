@@ -78,6 +78,7 @@
 					<a href="#livestream">Livestream</a>
 					<a href="#tulokset">Tulokset</a>
 					<a href="#osallistu">Osallistu</a>
+					<a href="http://letgee.fi/#x-content-band-9">Ota Yhteyttä</a>
 				</nav>
 			</div>
 		</div>
@@ -98,6 +99,16 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 				</div>
 			</div>
 			
+			<div class="entry" id="video">
+				
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/376S4XgY8ws" frameborder="0" allowfullscreen></iframe>
+			
+			</div><div class="entry" id="video">
+			
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/Jc8fH8pBtlY" frameborder="0" allowfullscreen></iframe>
+
+			</div>
+
 			<div class="entry" id="livestream">
 				<div class="title block">Yhteistyössä</div>
 				<!--<video id="video" controls></video>-->
@@ -107,6 +118,8 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 						<a href="http://www.plastex.fi/" target="_blank"><img class="sponsor" src="static/images/logos/plastex.png"></a>
 						<a href="http://letgee.fi" target="_blank"><img class="sponsor" src="static/images/logos/letgee.png"></a>
 						<a href="http://www.trendi-liikennekoulu.fi/" target="_blank"><img class="sponsor" src="static/images/logos/trendi.jpg"></a>
+						<a href="http://www.r-kioski.fi/" target="_blank"><img class="sponsor" src="static/images/logos/R-kioski.png"></a>
+						<a href="https://www.facebook.com/pages/Tmi-henniriikka/248660185300736" target="_black"><img class="sponsor" src="static/images/logos/tmi_henniriikka.png"></a>
 				</div>
 			</div>
 
@@ -134,10 +147,8 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 							}
 						?>
 					</div>
-					Osallistuminen 7.3. klo 16:00 alkaen.
-					
-					<?php /* 
-					<!--<form action="index.php#osallistu" method="POST">
+										
+					<form action="index.php#osallistu" method="POST">
 						
 						<table border="0">
 							<tr>
@@ -202,7 +213,7 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 
 						</table>
 
-					</form>-->*/?>
+					</form>
 				</div>
 				
 				<div id="facebookfeed">
@@ -223,8 +234,6 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 
 	</div>
 
-<?php /*
-<!---
 	<script type="text/javascript">
 
 	function check () {
@@ -256,7 +265,6 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 
 	</script>
 	<script type="text/javascript">check ();</script>
--->*/?>
 	
 	<script type="text/javascript" src="static/js/jquery.js"></script>
 	<script type="text/javascript">
@@ -277,7 +285,20 @@ LetgeeCup15 –turnauksen tarkoituksena on selvittää Lohjan mestaruus Fifa 15 
 			get_score_board ();
 		}, 2500 );
 
-	</script>	
+	</script>
+	
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-60331811-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
 
 </body>
 </html>

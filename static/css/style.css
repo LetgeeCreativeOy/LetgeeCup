@@ -59,7 +59,7 @@ body {
 
 #wrapper {
 	position: relative;
-
+	
 	min-width: 720px;
 	min-height: 100%;
 }
@@ -69,6 +69,7 @@ body {
 	top: 0;
 	min-width: 720px;
 	height: 64px;
+	font-weight: bold;
 
 	background: #2d2d2d;
 	z-index: 9999;
@@ -111,12 +112,12 @@ body {
 	height: 100%;
 
 	color: #fff;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 #navbar nav a {
 	position: relative;
-	top: calc(50% - 24px / 2);
+	top: calc(50% - 20px / 2);
 }
 
 #facebookfeed {
@@ -292,7 +293,12 @@ body {
 	color: rgba(255, 255, 255, 0.25);
 }
 
-
+#video {
+	
+	text-align:center;
+    margin: auto;
+	
+}
 
 
 
